@@ -67,26 +67,35 @@
 	let evirgo_markers = [];
 	let plongicauda_markers = [];
 	let csowerbii_markers = [];
-	let pmagnifica_markers = [];
-	
+        let pmagnifica_markers = [];
+
+        let nevirgo = 0;
+        let nplongicauda = 0;
+	let ncsowerbii = 0;
+        let npmagnifica = 0;
+  
 	for (let i = 0; i < data.length; i++) {
 	    const lat = data[i][4];
 	    const lon = data[i][5];
 	    if (data[i][0] == "Ephoron virgo" && (data[i][7] == "CC0" || data[i][7] == "CC-BY" || data[i][7] == "CC-BY-NC")) {
 		const marker = L.marker([lat, lon], {icon: yellowIcon}).addTo(map).bindPopup(`<b>Faj:</b> <i>${data[i][0]}</i><br><b>Dátum:</b> ${data[i][2]}<br><b>Megfigyelő:</b> ${data[i][6]}<br><b>Licenc:</b> ${data[i][7]}<br><a href=${data[i][8]} target="_blank"">${data[i][8]}<\a>`);
 		evirgo_markers.push(marker);
+                nevirgo = nevirgo + 1;
 	    }
 	    if (data[i][0] == "Palingenia longicauda" && (data[i][7] == "CC0" || data[i][7] == "CC-BY" || data[i][7] == "CC-BY-NC")) {
 		const marker = L.marker([lat, lon], {icon: orangeIcon}).addTo(map).bindPopup(`<b>Faj:</b> <i>${data[i][0]}</i><br><b>Dátum:</b> ${data[i][2]}<br><b>Megfigyelő:</b> ${data[i][6]}<br><b>Licenc:</b> ${data[i][7]}<br><a href=${data[i][8]} target="_blank"">${data[i][8]}<\a>`);
 		plongicauda_markers.push(marker);
+		nplongicauda = nplongicauda + 1;
 	    }
 	    if (data[i][0] == "Craspedacusta sowerbii" && (data[i][7] == "CC0" || data[i][7] == "CC-BY" || data[i][7] == "CC-BY-NC")) {
 		const marker = L.marker([lat, lon], {icon: blueIcon}).addTo(map).bindPopup(`<b>Faj:</b> <i>${data[i][0]}</i><br><b>Dátum:</b> ${data[i][2]}<br><b>Megfigyelő:</b> ${data[i][6]}<br><b>Licenc:</b> ${data[i][7]}<br><a href=${data[i][8]} target="_blank"">${data[i][8]}<\a>`);
 		csowerbii_markers.push(marker);
+		ncsowerbii = ncsowerbii + 1;
 	    }
 	    if (data[i][0] == "Pectinatella magnifica" && (data[i][7] == "CC0" || data[i][7] == "CC-BY" || data[i][7] == "CC-BY-NC")) {
 		const marker = L.marker([lat, lon], {icon: greenIcon}).addTo(map).bindPopup(`<b>Faj:</b> <i>${data[i][0]}</i><br><b>Dátum:</b> ${data[i][2]}<br><b>Megfigyelő:</b> ${data[i][6]}<br><b>Licenc:</b> ${data[i][7]}<br><a href=${data[i][8]} target="_blank"">${data[i][8]}<\a>`);
 		pmagnifica_markers.push(marker);
+		npmagnifica = npmagnifica + 1;
 	    }
 	}
 
@@ -101,10 +110,10 @@
 	pmagnifica.addTo(map);
 	
 	var overlays = {
-	    "<i style=\"color:#CAC428;\"><b>Ephoron virgo</b></i>": evirgo,
-	    "<i style=\"color:#CB8427;\"><b>Palingenia longicauda</b></i>": plongicauda,
-	    "<i style=\"color:#2A81CB;\"><b>Craspedacusta sowerbii</b></i>": csowerbii,
-	    "<i style=\"color:#2AAD27;\"><b>Pectinatella magnifica</b></i>": pmagnifica
+	    [`<b style=\"color:#CAC428;\"><i>Ephoron virgo</i> (N = ${nevirgo})</b>`]: evirgo,
+	    [`<b style=\"color:#CB8427;\"><i>Palingenia longicauda</i> (N = ${nplongicauda})</b>`]: plongicauda,
+	    [`<b style=\"color:#2A81CB;\"><i>Craspedacusta sowerbii</i> (N = ${ncsowerbii})</b>`]: csowerbii,
+	    [`<b style=\"color:#2AAD27;\"><i>Pectinatella magnifica</i> (N = ${npmagnifica})</b>`]: pmagnifica
 	};
 
 	var layerControl = L.control.layers(null, overlays).addTo(map);

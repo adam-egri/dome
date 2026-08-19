@@ -1,6 +1,4 @@
 taxon.name,taxon.id,obs.date,create.time,latitude,longitude,user.name,license,url
-Palingenia longicauda,570367,2025-05-26,2025-05-29T17:45:24.003Z,47.0021383333,16.6002466667,danrobert,CC-BY-NC,https://www.inaturalist.org/observations/285121261
-Craspedacusta sowerbii,208528,2025-06-01,2025-06-01T10:44:54.850Z,45.7751592927,16.0246659407,valenakvadrat,CC-BY-NC,https://www.inaturalist.org/observations/285906485
 Craspedacusta sowerbii,208528,2025-06-01,2025-06-01T15:16:15.658Z,45.775149868,16.0248809787,sebcato,CC-BY-NC,https://www.inaturalist.org/observations/285971357
 Palingenia longicauda,570367,2025-05-30,2025-06-02T20:19:54.956Z,45.212425,28.863245,luksza,CC-BY,https://www.inaturalist.org/observations/286365606
 Palingenia longicauda,570367,2025-06-04,2025-06-04T18:01:20.134Z,47.5625716667,17.04097,andras29,NA,https://www.inaturalist.org/observations/286848810
@@ -197,7 +195,11 @@ Ephoron virgo,546144,2026-08-17,2026-08-17T19:15:21.317Z,47.4938733333,19.049525
 Ephoron virgo,546144,2026-08-17,2026-08-17T20:10:10.866Z,47.4967709324,19.0706236102,evavdveek,CC-BY-NC,https://www.inaturalist.org/observations/392184808
 Ephoron virgo,546144,2026-08-12,2026-08-18T11:04:34.639Z,47.529982524,19.0520727126,michaelhammelsvang,CC-BY-NC,https://www.inaturalist.org/observations/392342816
 Ephoron virgo,546144,2026-08-17,2026-08-18T15:50:39.834Z,47.7905354,18.961637,saciilovai,NA,https://www.inaturalist.org/observations/392403699
+Ephoron virgo,546144,2026-08-18,2026-08-18T18:31:34.285Z,46.8226089478,17.594203949,zeme-laris,CC-BY-NC,https://www.inaturalist.org/observations/392444787
 Pectinatella magnifica,68103,2026-08-18,2026-08-18T20:23:10.491Z,48.1663555556,21.3683194444,kobe35709,CC-BY-NC,https://www.inaturalist.org/observations/392472405
 Ephoron virgo,546144,2026-08-10,2026-08-18T23:00:31.746Z,48.3963136,15.576184,cheynei24,CC-BY-NC,https://www.inaturalist.org/observations/392509966
+Craspedacusta sowerbii,208528,2026-08-19,2026-08-19T18:41:57.846Z,48.2480911072,16.3895949349,strepsipzerg,CC-BY,https://www.inaturalist.org/observations/392723011
 Craspedacusta sowerbii,208528,2025-05-21,2025-05-21T07:15:45.591Z,45.776977907,16.0267587751,lanamalovic,CC-BY-NC,https://www.inaturalist.org/observations/282828566
 Craspedacusta sowerbii,208528,2025-05-21,2025-05-21T10:27:27.418Z,45.7769652623,16.0266561806,karmela_adzic,CC-BY-NC,https://www.inaturalist.org/observations/282852267
+Palingenia longicauda,570367,2025-05-26,2025-05-29T17:45:24.003Z,47.0021383333,16.6002466667,danrobert,CC-BY-NC,https://www.inaturalist.org/observations/285121261
+Craspedacusta sowerbii,208528,2025-06-01,2025-06-01T10:44:54.850Z,45.7751592927,16.0246659407,valenakvadrat,CC-BY-NC,https://www.inaturalist.org/observations/285906485

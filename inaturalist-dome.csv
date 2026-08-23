@@ -1,5 +1,4 @@
 taxon.name,taxon.id,obs.date,create.time,latitude,longitude,user.name,license,url
-Palingenia longicauda,570367,2025-06-18,2025-06-18T16:39:50.760Z,47.2767667,20.4443831,mlns,NA,https://www.inaturalist.org/observations/290703995
 Palingenia longicauda,570367,2025-06-19,2025-06-20T14:32:26.086Z,47.1707691853,20.1958362429,berlasz,CC-BY-NC,https://www.inaturalist.org/observations/291208773
 Pectinatella magnifica,68103,2025-06-22,2025-06-22T15:55:30.150Z,48.9503397814,15.0431568548,bella67685,CC-BY-NC,https://www.inaturalist.org/observations/291815380
 Palingenia longicauda,570367,2025-06-15,2025-06-25T12:41:07.523Z,45.6143141463,20.0474078581,svetlana4458,CC-BY-NC,https://www.inaturalist.org/observations/292599626
@@ -199,6 +198,7 @@ Ephoron virgo,546144,2026-08-20,2026-08-20T19:06:55.172Z,47.49879,19.0409866667,
 Ephoron virgo,546144,2026-08-14,2026-08-21T05:33:27.809Z,47.8208168997,19.0362542997,fotoska,CC-BY-NC,https://www.inaturalist.org/observations/393121826
 Ephoron virgo,546144,2026-08-20,2026-08-21T06:26:47.534Z,47.4908544823,19.0491406247,szentesiattila,CC-BY-NC,https://www.inaturalist.org/observations/393127967
 Ephoron virgo,546144,2026-08-20,2026-08-21T17:52:57.185Z,47.51088,19.0459138333,idkfish,CC-BY-NC,https://www.inaturalist.org/observations/393250070
+Craspedacusta sowerbii,208528,2026-08-22,2026-08-23T09:45:47.633Z,48.3308700957,7.7706528022,alexander59927,NA,https://www.inaturalist.org/observations/393741091
 Craspedacusta sowerbii,208528,2025-05-21,2025-05-21T07:15:45.591Z,45.776977907,16.0267587751,lanamalovic,CC-BY-NC,https://www.inaturalist.org/observations/282828566
 Craspedacusta sowerbii,208528,2025-05-21,2025-05-21T10:27:27.418Z,45.7769652623,16.0266561806,karmela_adzic,CC-BY-NC,https://www.inaturalist.org/observations/282852267
 Palingenia longicauda,570367,2025-05-26,2025-05-29T17:45:24.003Z,47.0021383333,16.6002466667,danrobert,CC-BY-NC,https://www.inaturalist.org/observations/285121261
@@ -211,3 +211,4 @@ Craspedacusta sowerbii,208528,2025-06-05,2025-06-05T17:12:27.705Z,49.3951666667,
 Palingenia longicauda,570367,2025-06-15,2025-06-15T16:58:52.939Z,46.2528883333,20.1536055,lucimc,NA,https://www.inaturalist.org/observations/289878763
 Palingenia longicauda,570367,2025-06-16,2025-06-16T17:45:40.212Z,46.3510889048,20.2031520009,zsolt63716,CC-BY-NC,https://www.inaturalist.org/observations/290187928
 Palingenia longicauda,570367,2025-06-17,2025-06-17T17:10:20.324Z,47.1682859627,20.1874761656,vadrienn00,NA,https://www.inaturalist.org/observations/290444767
+Palingenia longicauda,570367,2025-06-18,2025-06-18T16:39:50.760Z,47.2767667,20.4443831,mlns,NA,https://www.inaturalist.org/observations/290703995

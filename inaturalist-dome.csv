@@ -1,5 +1,4 @@
 taxon.name,taxon.id,obs.date,create.time,latitude,longitude,user.name,license,url
-Pectinatella magnifica,68103,2025-06-22,2025-06-22T15:55:30.150Z,48.9503397814,15.0431568548,bella67685,CC-BY-NC,https://www.inaturalist.org/observations/291815380
 Palingenia longicauda,570367,2025-06-15,2025-06-25T12:41:07.523Z,45.6143141463,20.0474078581,svetlana4458,CC-BY-NC,https://www.inaturalist.org/observations/292599626
 Pectinatella magnifica,68103,2025-06-29,2025-06-29T12:49:20.017Z,48.94632,15.0453721667,zuzana_tomkova,NA,https://www.inaturalist.org/observations/293717784
 Craspedacusta sowerbii,208528,2025-07-03,2025-07-03T15:12:54.644Z,50.8051658173,6.8862658739,yeti-61,CC-BY-NC,https://www.inaturalist.org/observations/294862216
@@ -199,6 +198,7 @@ Ephoron virgo,546144,2026-08-20,2026-08-21T06:26:47.534Z,47.4908544823,19.049140
 Ephoron virgo,546144,2026-08-20,2026-08-21T17:52:57.185Z,47.51088,19.0459138333,idkfish,CC-BY-NC,https://www.inaturalist.org/observations/393250070
 Pectinatella magnifica,68103,2026-08-21,2026-08-22T19:19:31.109Z,51.3632034657,12.3197967187,endstationozean,CC-BY-NC,https://www.inaturalist.org/observations/393568665
 Craspedacusta sowerbii,208528,2026-08-22,2026-08-23T09:45:47.633Z,48.3308700957,7.7706528022,alexander59927,NA,https://www.inaturalist.org/observations/393741091
+Ephoron virgo,546144,2026-07-23,2026-08-24T14:59:08.042Z,47.5594780967,19.2938804626,pinyob,CC-BY-NC,https://www.inaturalist.org/observations/394133899
 Craspedacusta sowerbii,208528,2025-05-21,2025-05-21T07:15:45.591Z,45.776977907,16.0267587751,lanamalovic,CC-BY-NC,https://www.inaturalist.org/observations/282828566
 Craspedacusta sowerbii,208528,2025-05-21,2025-05-21T10:27:27.418Z,45.7769652623,16.0266561806,karmela_adzic,CC-BY-NC,https://www.inaturalist.org/observations/282852267
 Palingenia longicauda,570367,2025-05-26,2025-05-29T17:45:24.003Z,47.0021383333,16.6002466667,danrobert,CC-BY-NC,https://www.inaturalist.org/observations/285121261
@@ -213,3 +213,4 @@ Palingenia longicauda,570367,2025-06-16,2025-06-16T17:45:40.212Z,46.3510889048,2
 Palingenia longicauda,570367,2025-06-17,2025-06-17T17:10:20.324Z,47.1682859627,20.1874761656,vadrienn00,NA,https://www.inaturalist.org/observations/290444767
 Palingenia longicauda,570367,2025-06-18,2025-06-18T16:39:50.760Z,47.2767667,20.4443831,mlns,NA,https://www.inaturalist.org/observations/290703995
 Palingenia longicauda,570367,2025-06-19,2025-06-20T14:32:26.086Z,47.1707691853,20.1958362429,berlasz,CC-BY-NC,https://www.inaturalist.org/observations/291208773
+Pectinatella magnifica,68103,2025-06-22,2025-06-22T15:55:30.150Z,48.9503397814,15.0431568548,bella67685,CC-BY-NC,https://www.inaturalist.org/observations/291815380

@@ -1,5 +1,4 @@
 taxon.name,taxon.id,obs.date,create.time,latitude,longitude,user.name,license,url
-Ephoron virgo,546144,2025-07-19,2025-07-21T13:32:24.084Z,46.2120288787,20.2499532388,lililajtar,CC-BY-NC,https://www.inaturalist.org/observations/299828527
 Ephoron virgo,546144,2025-07-23,2025-07-24T20:45:26.435Z,47.5205783207,19.042060934,kordaslevente,NA,https://www.inaturalist.org/observations/300772112
 Ephoron virgo,546144,2025-07-25,2025-07-25T20:27:02.451Z,47.5051416667,19.0635861667,pashaefface,CC-BY,https://www.inaturalist.org/observations/301028539
 Ephoron virgo,546144,2025-07-25,2025-07-26T16:17:58.923Z,47.4684943747,19.0702489926,berlasz,CC-BY-NC,https://www.inaturalist.org/observations/301242921
@@ -199,6 +198,7 @@ Craspedacusta sowerbii,208528,2026-09-04,2026-09-04T18:01:22.735Z,48.2464643165,
 Ephoron virgo,546144,2026-09-13,2026-09-13T17:41:21.528Z,53.7399085844,10.6382881348,lgrotwild,CC-BY-NC,https://www.inaturalist.org/observations/399947850
 Ephoron virgo,546144,2026-08-01,2026-09-17T20:54:47.621Z,52.4542433551,9.5867293142,j4n_w,CC-BY-NC,https://www.inaturalist.org/observations/401072079
 Ephoron virgo,546144,2026-08-01,2026-09-17T20:54:48.178Z,52.5907036248,9.4482286385,j4n_w,CC-BY-NC,https://www.inaturalist.org/observations/401072084
+Craspedacusta sowerbii,208528,2026-09-18,2026-09-18T07:54:18.088Z,47.0613761154,15.4347793199,andrii-sereda-cool,CC-BY-NC,https://www.inaturalist.org/observations/401180428
 Craspedacusta sowerbii,208528,2025-05-21,2025-05-21T07:15:45.591Z,45.776977907,16.0267587751,lanamalovic,CC-BY-NC,https://www.inaturalist.org/observations/282828566
 Craspedacusta sowerbii,208528,2025-05-21,2025-05-21T10:27:27.418Z,45.7769652623,16.0266561806,karmela_adzic,CC-BY-NC,https://www.inaturalist.org/observations/282852267
 Palingenia longicauda,570367,2025-05-26,2025-05-29T17:45:24.003Z,47.0021383333,16.6002466667,danrobert,CC-BY-NC,https://www.inaturalist.org/observations/285121261
@@ -225,3 +225,4 @@ Ephoron virgo,546144,2025-07-05,2025-07-14T19:15:36.713Z,51.4316447994,13.008327
 Ephoron virgo,546144,2025-07-19,2025-07-19T22:29:59.694Z,46.2121116667,20.249895,hudak-zoli,NA,https://www.inaturalist.org/observations/299330930
 Craspedacusta sowerbii,208528,2025-07-20,2025-07-20T11:00:57.259Z,48.2916883333,16.35468,mattyratty,CC-BY-NC,https://www.inaturalist.org/observations/299471517
 Ephoron virgo,546144,2025-07-19,2025-07-20T17:31:58.828Z,47.6015625,19.3475933056,tete15,CC-BY-NC,https://www.inaturalist.org/observations/299575770
+Ephoron virgo,546144,2025-07-19,2025-07-21T13:32:24.084Z,46.2120288787,20.2499532388,lililajtar,CC-BY-NC,https://www.inaturalist.org/observations/299828527

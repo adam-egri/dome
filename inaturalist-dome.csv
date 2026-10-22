@@ -1,5 +1,4 @@
 taxon.name,taxon.id,obs.date,create.time,latitude,longitude,user.name,license,url
-Ephoron virgo,546144,2025-07-27,2025-07-27T05:37:14.561Z,47.5431466615,19.6064697113,termeszet1,CC0,https://www.inaturalist.org/observations/301427172
 Ephoron virgo,546144,2025-07-26,2025-07-27T09:12:56.286Z,47.5257979586,19.0779277682,shaaya,CC-BY-NC,https://www.inaturalist.org/observations/301456673
 Ephoron virgo,546144,2025-07-26,2025-07-27T11:06:00.174Z,47.5002960687,19.0614375436,ppseprus,CC-BY-NC,https://www.inaturalist.org/observations/301474928
 Ephoron virgo,546144,2025-07-26,2025-07-27T18:14:03.406Z,51.4182675,6.787809,bjoerns,CC-BY,https://www.inaturalist.org/observations/301595248
@@ -199,6 +198,7 @@ Pectinatella magnifica,68103,2026-09-20,2026-09-21T06:04:08.770Z,47.8844833333,1
 Pectinatella magnifica,68103,2026-09-24,2026-09-24T08:23:05.645Z,47.8887892153,17.4893053249,tomasnavara,CC-BY-NC,https://www.inaturalist.org/observations/402945844
 Ephoron virgo,546144,2026-08-02,2026-09-29T16:17:43.597Z,47.483925,19.0571778333,amunizr,NA,https://www.inaturalist.org/observations/404497049
 Palingenia longicauda,570367,2025-06-13,2026-10-08T10:11:26.494Z,46.2467342292,20.1510200937,lililajtar,CC-BY-NC,https://www.inaturalist.org/observations/406752914
+Craspedacusta sowerbii,208528,2026-10-22,2026-10-22T08:33:31.791Z,46.7498152702,23.5632429127,antonio_rad,CC-BY-NC,https://www.inaturalist.org/observations/410046970
 Craspedacusta sowerbii,208528,2025-05-21,2025-05-21T07:15:45.591Z,45.776977907,16.0267587751,lanamalovic,CC-BY-NC,https://www.inaturalist.org/observations/282828566
 Craspedacusta sowerbii,208528,2025-05-21,2025-05-21T10:27:27.418Z,45.7769652623,16.0266561806,karmela_adzic,CC-BY-NC,https://www.inaturalist.org/observations/282852267
 Palingenia longicauda,570367,2025-05-26,2025-05-29T17:45:24.003Z,47.0021383333,16.6002466667,danrobert,CC-BY-NC,https://www.inaturalist.org/observations/285121261
@@ -231,3 +231,4 @@ Ephoron virgo,546144,2025-07-25,2025-07-25T20:27:02.451Z,47.5051416667,19.063586
 Ephoron virgo,546144,2025-07-25,2025-07-26T16:17:58.923Z,47.4684943747,19.0702489926,berlasz,CC-BY-NC,https://www.inaturalist.org/observations/301242921
 Ephoron virgo,546144,2025-07-26,2025-07-26T21:02:15.233Z,50.9291583333,6.9569133333,markbenecke,CC-BY-NC,https://www.inaturalist.org/observations/301321274
 Ephoron virgo,546144,2025-07-26,2025-07-27T05:31:54.550Z,47.5709779297,19.3728007749,valamizoli,NA,https://www.inaturalist.org/observations/301426439
+Ephoron virgo,546144,2025-07-27,2025-07-27T05:37:14.561Z,47.5431466615,19.6064697113,termeszet1,CC0,https://www.inaturalist.org/observations/301427172

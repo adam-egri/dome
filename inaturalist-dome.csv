@@ -1,6 +1,4 @@
 taxon.name,taxon.id,obs.date,create.time,latitude,longitude,user.name,license,url
-Ephoron virgo,546144,2025-07-26,2025-07-27T09:12:56.286Z,47.5257979586,19.0779277682,shaaya,CC-BY-NC,https://www.inaturalist.org/observations/301456673
-Ephoron virgo,546144,2025-07-26,2025-07-27T11:06:00.174Z,47.5002960687,19.0614375436,ppseprus,CC-BY-NC,https://www.inaturalist.org/observations/301474928
 Ephoron virgo,546144,2025-07-26,2025-07-27T18:14:03.406Z,51.4182675,6.787809,bjoerns,CC-BY,https://www.inaturalist.org/observations/301595248
 Ephoron virgo,546144,2025-07-26,2025-07-27T18:14:05.546Z,51.4182675,6.787809,bjoerns,CC-BY,https://www.inaturalist.org/observations/301595269
 Ephoron virgo,546144,2025-07-27,2025-07-27T20:12:30.560Z,47.653360592,19.4843421131,mtpalaga,NA,https://www.inaturalist.org/observations/301630528
@@ -56,6 +54,7 @@ Palingenia longicauda,570367,2025-06-11,2026-05-03T13:49:47.998Z,45.4238622601,2
 Palingenia longicauda,570367,2025-06-15,2026-05-11T12:26:19.687Z,45.4236669478,20.2269036323,momiza,CC-BY-NC,https://www.inaturalist.org/observations/360571320
 Palingenia longicauda,570367,2025-06-13,2026-05-11T12:29:11.315Z,45.4237142464,20.226862058,momiza,CC-BY-NC,https://www.inaturalist.org/observations/360571896
 Palingenia longicauda,570367,2025-06-07,2026-05-11T12:34:31.477Z,45.4236594176,20.2269502357,momiza,CC-BY-NC,https://www.inaturalist.org/observations/360573028
+Palingenia longicauda,570367,2026-06-10,2026-06-10T17:19:10.615Z,46.9078445435,20.1365203857,bjazzy21,CC-BY-NC,https://www.inaturalist.org/observations/370379387
 Craspedacusta sowerbii,208528,2026-06-14,2026-06-14T17:05:47.265Z,45.7787292791,16.024233761,dominikf,CC-BY-NC,https://www.inaturalist.org/observations/371663415
 Craspedacusta sowerbii,208528,2026-06-18,2026-06-22T10:06:47.509Z,46.241592203,20.1721007377,cicadella,CC-BY-NC,https://www.inaturalist.org/observations/374245540
 Pectinatella magnifica,68103,2026-06-25,2026-06-25T10:09:43.230Z,49.1262764,12.1261548,mukkupuk,CC-BY-NC,https://www.inaturalist.org/observations/375178275
@@ -82,6 +81,7 @@ Craspedacusta sowerbii,208528,2026-07-15,2026-07-24T21:11:09.975Z,44.7841324278,
 Pectinatella magnifica,68103,2026-07-16,2026-07-24T21:12:01.291Z,46.9410439722,20.143069,marnoldia,CC-BY-NC,https://www.inaturalist.org/observations/384680307
 Ephoron virgo,546144,2026-07-24,2026-07-24T22:08:40.935Z,47.9980316667,13.4889,jenni_ly,CC-BY,https://www.inaturalist.org/observations/384695916
 Ephoron virgo,546144,2026-07-25,2026-07-25T21:43:18.054Z,50.6859720063,7.1552223712,lkanaturalist,CC-BY-NC,https://www.inaturalist.org/observations/385041641
+Ephoron virgo,546144,2026-07-25,2026-07-25T21:53:53.347Z,48.5431158081,21.4557328883,hennl,CC-BY-NC,https://www.inaturalist.org/observations/385044750
 Ephoron virgo,546144,2026-07-25,2026-07-26T13:09:24.116Z,47.48582075,19.0548629722,balazs00,CC-BY-NC,https://www.inaturalist.org/observations/385243990
 Pectinatella magnifica,68103,2026-07-26,2026-07-26T15:13:55.894Z,48.0759692327,17.140603736,alexplayzzyt,CC-BY,https://www.inaturalist.org/observations/385291977
 Craspedacusta sowerbii,208528,2026-07-25,2026-07-26T17:09:21.740Z,48.1226341983,16.7197094562,mgreilhuber,CC-BY-NC,https://www.inaturalist.org/observations/385334407
@@ -232,3 +232,5 @@ Ephoron virgo,546144,2025-07-25,2025-07-26T16:17:58.923Z,47.4684943747,19.070248
 Ephoron virgo,546144,2025-07-26,2025-07-26T21:02:15.233Z,50.9291583333,6.9569133333,markbenecke,CC-BY-NC,https://www.inaturalist.org/observations/301321274
 Ephoron virgo,546144,2025-07-26,2025-07-27T05:31:54.550Z,47.5709779297,19.3728007749,valamizoli,NA,https://www.inaturalist.org/observations/301426439
 Ephoron virgo,546144,2025-07-27,2025-07-27T05:37:14.561Z,47.5431466615,19.6064697113,termeszet1,CC0,https://www.inaturalist.org/observations/301427172
+Ephoron virgo,546144,2025-07-26,2025-07-27T09:12:56.286Z,47.5257979586,19.0779277682,shaaya,CC-BY-NC,https://www.inaturalist.org/observations/301456673
+Ephoron virgo,546144,2025-07-26,2025-07-27T11:06:00.174Z,47.5002960687,19.0614375436,ppseprus,CC-BY-NC,https://www.inaturalist.org/observations/301474928

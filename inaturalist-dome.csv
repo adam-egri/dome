@@ -1,6 +1,4 @@
 taxon.name,taxon.id,obs.date,create.time,latitude,longitude,user.name,license,url
-Ephoron virgo,546144,2025-07-26,2025-07-27T18:14:05.546Z,51.4182675,6.787809,bjoerns,CC-BY,https://www.inaturalist.org/observations/301595269
-Ephoron virgo,546144,2025-07-27,2025-07-27T20:12:30.560Z,47.653360592,19.4843421131,mtpalaga,NA,https://www.inaturalist.org/observations/301630528
 Ephoron virgo,546144,2025-07-27,2025-07-28T09:15:13.797Z,47.530138,19.07067,barnabas55597,NA,https://www.inaturalist.org/observations/301775476
 Ephoron virgo,546144,2025-07-28,2025-07-28T17:48:27.056Z,47.5325663677,19.066500552,krisztina85,CC-BY,https://www.inaturalist.org/observations/301882575
 Ephoron virgo,546144,2025-07-28,2025-07-28T20:07:42.158Z,47.515305,19.03715,morgremlin,CC-BY-NC,https://www.inaturalist.org/observations/301916688
@@ -199,6 +197,8 @@ Ephoron virgo,546144,2026-08-02,2026-09-29T16:17:43.597Z,47.483925,19.0571778333
 Palingenia longicauda,570367,2025-06-13,2026-10-08T10:11:26.494Z,46.2467342292,20.1510200937,lililajtar,CC-BY-NC,https://www.inaturalist.org/observations/406752914
 Craspedacusta sowerbii,208528,2026-10-22,2026-10-22T08:33:31.791Z,46.7498152702,23.5632429127,antonio_rad,CC-BY-NC,https://www.inaturalist.org/observations/410046970
 Ephoron virgo,546144,2026-07-28,2026-11-18T12:23:30.496Z,47.5607536531,19.2620399036,pinyob,CC-BY-NC,https://www.inaturalist.org/observations/415429234
+Ephoron virgo,546144,2026-08-08,2026-11-19T10:06:44.429Z,47.8289953412,18.7935005204,tomasmlynsky,CC-BY-NC,https://www.inaturalist.org/observations/415584838
+Ephoron virgo,546144,2026-08-11,2026-11-19T10:08:25.045Z,48.5887364575,17.8395713658,tomasmlynsky,CC-BY-NC,https://www.inaturalist.org/observations/415584944
 Craspedacusta sowerbii,208528,2025-05-21,2025-05-21T07:15:45.591Z,45.776977907,16.0267587751,lanamalovic,CC-BY-NC,https://www.inaturalist.org/observations/282828566
 Craspedacusta sowerbii,208528,2025-05-21,2025-05-21T10:27:27.418Z,45.7769652623,16.0266561806,karmela_adzic,CC-BY-NC,https://www.inaturalist.org/observations/282852267
 Palingenia longicauda,570367,2025-05-26,2025-05-29T17:45:24.003Z,47.0021383333,16.6002466667,danrobert,CC-BY-NC,https://www.inaturalist.org/observations/285121261
@@ -235,3 +235,5 @@ Ephoron virgo,546144,2025-07-27,2025-07-27T05:37:14.561Z,47.5431466615,19.606469
 Ephoron virgo,546144,2025-07-26,2025-07-27T09:12:56.286Z,47.5257979586,19.0779277682,shaaya,CC-BY-NC,https://www.inaturalist.org/observations/301456673
 Ephoron virgo,546144,2025-07-26,2025-07-27T11:06:00.174Z,47.5002960687,19.0614375436,ppseprus,CC-BY-NC,https://www.inaturalist.org/observations/301474928
 Ephoron virgo,546144,2025-07-26,2025-07-27T18:14:03.406Z,51.4182675,6.787809,bjoerns,CC-BY,https://www.inaturalist.org/observations/301595248
+Ephoron virgo,546144,2025-07-26,2025-07-27T18:14:05.546Z,51.4182675,6.787809,bjoerns,CC-BY,https://www.inaturalist.org/observations/301595269
+Ephoron virgo,546144,2025-07-27,2025-07-27T20:12:30.560Z,47.653360592,19.4843421131,mtpalaga,NA,https://www.inaturalist.org/observations/301630528
